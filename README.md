@@ -10,3 +10,5 @@ iTunes Albums -
 Just a test to see how much I can do within one work day. I spent circa 8-9 hours on this and haven't touched the code after that. Its a simple page to list X top albums from iTunes
 
 Data Viz - is a short showcase of different visualizations I made through the Dev Express package
+
+Youtube_AngularJS - A website that uses the youtube API to search and paly videos
