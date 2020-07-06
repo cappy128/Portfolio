@@ -12,3 +12,4 @@ Just a test to see how much I can do within one work day. I spent circa 8-9 hour
 Data Viz - is a short showcase of different visualizations I made through the Dev Express package
 
 Youtube_AngularJS - A website that uses the youtube API to search and paly videos
+
